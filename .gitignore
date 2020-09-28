@@ -26,6 +26,9 @@ tools/coffee-manager/build/
 tools/coffee-manager/coffee.jar
 COOJA.testlog
 
+# ide and project settings
+.idea/*
+
 # platform build artifacts
 *.cc2538dk
 *.cooja
